@@ -34,11 +34,22 @@
 ## 🔧 Version Control & Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-
-# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      
+## 📊 GitHub Stats:
+      
 ![](https://github-readme-stats.vercel.app/api?username=dansaavedra1103&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dansaavedra1103&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dansaavedra1103&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  </td>
+  <td>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXh5Zm1wdXI1MGE5ZWZ0eGx0dmZjY3lhcXQxenRreGQybzlrdGJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
