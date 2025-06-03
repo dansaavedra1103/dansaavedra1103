@@ -5,7 +5,7 @@
 🌱 I’m constantly exploring new technologies, reading research papers, and sharpening my skills in areas like MLOps and AI advancements.<br><br>
 💬 In my spare time, I like to discover new music genres, read about multiple topics that pique my interest, and learn about.<br><br>
 📫 Want to collaborate? Feel free to reach out at danmaurisciosaavedra@gmail.com — I’ll get back to you as soon as I can.<br><br>
-📄 Check out my [Resume](./assets/CURRICULUM%20VITAE%20-%20DANIEL%20MAURICIO%20ORDOÑEZ.pdf), to learn more about me and my journey.
+📄 Check out my [Resume](https://github.com/tu-usuario/tu-repositorio/raw/main/assets/resume_daniel_ordonez.pdf) to learn more about me and my journey.
 
 
 ## 🌐 Socials:
