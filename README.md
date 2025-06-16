@@ -3,7 +3,6 @@
 ![Daniel banner](https://github.com/DANSAAVEDRA1103/DANSAAVEDRA1103/raw/main/assets/1743560213295.jpg)
 
 👋 Hey there! I'm Daniel — a Data Scientist with a deep interest in AI, mathematics, and solving real-world problems through data.<br><br>
-💻 I'm currently finishing my bachelor’s degree in Systems Engineering at Pontificia Universidad Javeriana, with a strong focus on software development, cloud computing, and database management.<br><br>
 🧠 I enjoy working across the tech stack — from designing robust backends and building efficient data pipelines, to experimenting with machine learning models and deploying them at scale.<br><br>
 🌱 I’m constantly exploring new technologies, reading research papers, and sharpening my skills in areas like MLOps and AI advancements.<br><br>
 💬 In my spare time, I like to discover new music genres, read about multiple topics that pique my interest, and learn about.<br><br>
